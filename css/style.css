@@ -2,18 +2,19 @@
     padding: 0;
     margin: 0;
 }
-body{
-     background-color: black;
-     color: white;
+
+body {
+    background-color: black;
+    color: white;
 }
 
 .ceviche-one-regular{
-    font-family: "Ceviche One",system-ui;
+    font-family: "Ceviche One", system-ui;
     font-weight: 400;
     font-style: normal;
 }
 
-.bienveniida{
+.bienvenida{
     text-align: center;
 }
 
@@ -22,26 +23,21 @@ body{
 }
 
 #lienzo-dos{
-
-    border: 1px solid #FF3131;
+    border: 1px solid #ff3131;
 }
 
 #lienzo-tres{
-
-    border: 1px solid #1F51FF;
+    border: 1px solid #1f51ff;
 }
 
 #lienzo-cuatro{
-
-    border: 1px solid #4DEEEA;
+    border: 1px solid #4deeea;
 }
 
 #lienzo-cinco{
-
-    border: px solid #ffe200;
+    border: 1px solid #ffe700;
 }
 
 #lienzo-seis{
-
-    border: px solid #f000ff;
+    border: 1px solid #f000ff;
 }
